@@ -3,7 +3,7 @@ Windows .NET app for Click TO Call on FusionPBX
 
 Build the project in Visual Studio.
 
-Double click to run, it will then launch a system tray application. Since you’re on Windows 8+ you might get smoe warnings about it not being signed, so be sure to let me know if you get any warnings.
+Double click to run, it will then launch a system tray application. 
 
 Right click on the application in the system tray and click settings, populate the domain (IE: pbx.fusionpbx.com no HTTP/HTTPS) as it defaults to HTTPS only, API key and your extension. You need to have the API-Key option from the users in fusionpbx.
 
