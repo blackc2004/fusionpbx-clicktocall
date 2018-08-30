@@ -1,0 +1,10 @@
+C:\ChrisBlack\ClickToCall\ClickToCall\bin\Debug\ClickToCall.exe.config
+C:\ChrisBlack\ClickToCall\ClickToCall\obj\Debug\ClickToCall.Properties.Resources.resources
+C:\ChrisBlack\ClickToCall\ClickToCall\obj\Debug\ClickToCall.csproj.GenerateResource.Cache
+C:\ChrisBlack\ClickToCall\ClickToCall\obj\Debug\SystemTrayApp.AboutBox.resources
+C:\ChrisBlack\ClickToCall\ClickToCall\bin\Debug\ClickToCall.exe
+C:\ChrisBlack\ClickToCall\ClickToCall\bin\Debug\ClickToCall.pdb
+C:\ChrisBlack\ClickToCall\ClickToCall\obj\Debug\ClickToCall.exe
+C:\ChrisBlack\ClickToCall\ClickToCall\obj\Debug\ClickToCall.pdb
+C:\ChrisBlack\ClickToCall\ClickToCall\obj\Debug\ClickToCall.mySettings.resources
+C:\ChrisBlack\ClickToCall\ClickToCall\obj\Debug\ClickToCall.csprojResolveAssemblyReference.cache
